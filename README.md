@@ -9,7 +9,7 @@
 ---
 
 ### 🛠️ Languages & Tools  
-Python | Power BI | Machine Learning | Scikit-learn | TensorFlow | SQL | GitHub
+Python | Data Analysis | Power BI | Machine Learning | Scikit-learn | TensorFlow | SQL | GitHub
 
 ---
 
