@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=f5f5f5&height=110&text=Falguni%20Kulkarni%20-%20AI%20Engineer&fontSize=32&fontColor=111827" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Falguni%20Kulkarni&fontSize=42&fontColor=000000" />
 </p>
+
 
 
 ## <h1 align="center">Hi there 👋, I'm Falguni Kulkarni</h1>
