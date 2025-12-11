@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Falguni%20Kulkarni%20%7C%20AI%20Engineer&fontSize=48&fontColor=ffffff&desc=Real-time%20Object%20Detection%20%E2%80%A2%20ML&descFontSize=18&color=0:ff7a18,50:ff0066,100:8338ec&animation=fadeIn" />
-
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=200&text=Falguni%20Kulkarni%20%7C%20AI%20%26%20ML%20Engineer&fontSize=44&fontColor=0b1220&desc=Python%20%7C%20YOLO%20%7C%20Computer%20Vision&descFontSize=16" />
 
 ## <h1 align="center">Hi there 👋, I'm Falguni Kulkarni</h1>
 
