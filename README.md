@@ -11,11 +11,10 @@
 ### 🛠️ Languages & Tools  
 Python | Java (Core) | SQL | Data Analysis | Power BI | Machine Learning | Scikit-learn | TensorFlow  | GitHub
 
-## 📊 GitHub Stats
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
-![Falguni's GitHub stats](https://github-readme-stats.vercel.app/api?username=falgunikulkarni&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=falgunikulkarni&layout=compact)
 
 
 
