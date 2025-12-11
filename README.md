@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Falguni%20Kulkarni%20%7C%20AI%20%26%20ML%20Engineer&fontSize=48&fontColor=ffffff&desc=Real-time%20Object%20Detection%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Deep%20Learning&descFontSize=18&descAlignY=60&color=0:0f172a,50:0ea5a4,100:7c3aed&animation=twinkle" alt="Falguni Kulkarni | AI & ML Engineer" />
+</p>
+
 ## <h1 align="center">Hi there 👋, I'm Falguni Kulkarni</h1>
 
 ### 🎓 About Me  
