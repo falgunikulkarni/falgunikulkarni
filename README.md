@@ -1,6 +1,6 @@
 ## <h1 align="center">Hi there 👋, I'm Falguni Kulkarni</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=0d9488&center=true&vCenter=true&width=700&lines=👋+Welcome+to+my+GitHub+profile!;I’m+passionate+about+AI+%26+ML+innovation;Exploring+Deep+Learning+%26+Computer+Vision;Creating+Intelligent+Solutions+to+Real-World+Challenges+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=0d9488&center=true&vCenter=true&width=700&lines=👋+Welcome+to+my+GitHub+profile!;I’m+passionate+about+AI+%26+ML+innovation;🚀" />
 </p>
 
 
