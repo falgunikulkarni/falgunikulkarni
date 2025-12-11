@@ -2,22 +2,15 @@
   <b><span style="font-size:36px;">Falguni Kulkarni</span></b>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00ffcc&center=true&vCenter=true&width=650&lines=👋+Welcome+to+my+profile!;I’m+eager+to+learn+and+explore;Building+AI+%26+ML+projects+🚀" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=ff8c00&center=true&vCenter=true&width=600&lines=Python;Java(Core);SQL;Machine+Learning;Deep+Learning;Computer+Vision;YOLO" />
-</p>
-
 ## <h1 align="center">Hi there 👋, I'm Falguni Kulkarni</h1>
 <p align="center">
   Falguni Kulkarni
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=00ffcc&center=true&vCenter=true&width=600&lines=👋+Welcome+to+my+profile!;I’m+eager+to+learn,+explore,+and+build+AI+projects+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00ffcc&center=true&vCenter=true&width=650&lines=👋+Welcome+to+my+profile!;I’m+eager+to+learn+and+explore;Building+AI+%26+ML+projects+🚀" />
 </p>
+
 
 ### 🎓 About Me  
 - 🎓 Final-year BTech student specializing in **Artificial Intelligence & Machine Learning**  
