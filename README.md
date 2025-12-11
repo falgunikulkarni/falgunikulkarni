@@ -11,20 +11,21 @@
 ### 🛠️ Languages & Tools  
 Python | Java (Core) | SQL | Data Analysis | Power BI | Machine Learning | Scikit-learn | TensorFlow  | GitHub
 
-<!-- 🌟 Professional Skill Badges -->
+<!-- 🌟 Premium Colorful Big Skill Badges -->
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-<img src="https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=yellow" />
-<img src="https://img.shields.io/badge/Java(Core)-black?style=flat&logo=java&logoColor=red" />
-<img src="https://img.shields.io/badge/SQL-black?style=flat&logo=postgresql&logoColor=blue" />
-<img src="https://img.shields.io/badge/Data_Analysis-black?style=flat&logo=chart-line&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-black?style=flat&logo=powerbi&logoColor=yellow" />
-<img src="https://img.shields.io/badge/Machine_Learning-black?style=flat&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--learn-black?style=flat&logo=scikitlearn&logoColor=orange" />
-<img src="https://img.shields.io/badge/TensorFlow-black?style=flat&logo=tensorflow&logoColor=orange" />
-<img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java(Core)-E11F22?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Analysis-6A89CC?style=for-the-badge&logo=analytics&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Machine_Learning-4B6584?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
+
 
 
 
