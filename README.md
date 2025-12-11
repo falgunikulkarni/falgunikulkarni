@@ -1,10 +1,7 @@
 ## <h1 align="center">Hi there 👋, I'm Falguni Kulkarni</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=0d9488&center=true&vCenter=true&width=700&lines=👋+Welcome+to+my+GitHub+Profile!;I’m+Passionate+about+AI+%26+ML+Innovation+🚀;" />
 </p>
-
-
 ### 🎓 About Me  
 - 🎓 Final-year BTech student specializing in **Artificial Intelligence & Machine Learning**  
 - 📊 Passionate about **Python, Data Analysis, Machine Learning, and Power BI**  
@@ -12,7 +9,6 @@
 - 🚀 Open to **internships, collaborations, and exciting opportunities**  
 
 ---
-
 ### 🛠️ Languages & Tools  
 Python | Java (Core) | SQL | Data Analysis | Power BI | Machine Learning | Scikit-learn | TensorFlow  | GitHub
 
