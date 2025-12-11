@@ -1,4 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=200&text=Falguni%20Kulkarni%20%7C%20AI%20%26%20ML%20Engineer&fontSize=44&fontColor=0b1220&desc=Python%20%7C%20YOLO%20%7C%20Computer%20Vision&descFontSize=16" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=f5f5f5&height=110&text=Falguni%20Kulkarni%20-%20AI%20Engineer&fontSize=32&fontColor=111827" />
+</p>
+
 
 ## <h1 align="center">Hi there 👋, I'm Falguni Kulkarni</h1>
 
